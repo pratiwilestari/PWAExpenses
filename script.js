@@ -1,4 +1,4 @@
-const apiUrl = "https://script.google.com/macros/s/AKfycbx-3C9TUTL9SWTLZALQgw0TPsaH6EdxlAGyVdd8wX89kllcw9I6rnZCf40Ml3gCDoEX/exec";
+const apiUrl = "https://script.google.com/macros/s/AKfycbxeukXhXgwqVaLnVXzn6ZgCCkL0qlD60E1tNV6xRoungeYs5h5APq-OpMzwY7jbkHEb/exec";
 
 // document.getElementById("dataForm").addEventListener("submit", async(e) => {
 //     e.preventDefault();
